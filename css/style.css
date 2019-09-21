@@ -1,0 +1,126 @@
+body  {
+    background: #282828;
+    font-family: tahoma;
+    text-align: justify;
+    overflow: hidden;
+}
+
+#about {
+    padding-top: 98px;
+    padding-bottom: 101px;
+}
+
+#about .p-first {
+
+    margin-bottom: 30px;
+
+}
+
+#about h2 {
+    margin-bottom: 10px;
+    margin-top:  12px;
+    
+}
+
+#about .social-link-text {
+
+    margin-top: 50px;
+    margin-bottom: 25px;
+}
+
+#about .about-link {
+
+    padding-left: 0px;
+
+}
+
+#about .about-link  li{
+
+    display: inline-block;
+    
+}
+
+#about .about-link li a i{
+
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    line-height: 50px;
+    text-align: center;
+    border: 1px solid #d6c6b2;
+    margin-right: 10px;
+    font-size: 22px;
+    color: #d6c6b2;
+    transition: all .3s;
+    
+
+}
+
+#about .about-link li a i:hover {
+
+    color: #222222;
+    background: #d6c6b2;
+    border-color: #d6c6b2;
+}
+
+#about .about-img .person{
+
+  width: 320px;
+  height: auto;
+ margin-top: 100px;
+ padding-bottom: 60px;
+   
+
+}
+
+.color-3 {
+    color: #d6c6b2;
+
+}
+
+.text-white{
+    color: white;
+}
+
+p{
+    margin-bottom: 0;
+    font-size: 16px;
+    line-height: 24px;
+    color: #d6c6b2;
+    text-align: left;
+   
+
+}
+
+.btn-danger {
+
+    border-radius: 1%;
+    padding: 10px 20px;
+    background-color:  hsl(33, 67%, 52%);
+    border-color: hsl(33, 67%, 52%);
+
+    
+}
+
+.outerbox {
+
+    width: 1024px;
+    /* height: 1000p; */
+    text-align: center;
+    border-radius: 2%;
+    border-color: hsl(33, 67%, 52%);
+    border-width: 1px;
+    border-style: solid;
+    padding-right: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#about h3 {
+    color:  hsl(33, 67%, 52%);
+    font-size: 22px;
+    margin-bottom: 15px;
+    letter-spacing: 4px;
+    margin-top: 30px;
+}
+
